@@ -1,12 +1,12 @@
 # Calculator
 
-#### JavaScript and jQuery business logic practice for Epicodus, 3/3/2021_
+#### JavaScript and jQuery business logic practice for Epicodus, 3/4/2021
 
 #### By Lucian Miller
 
 ## Description
 
-A simple addition calculator. This project was used to learn how to use JavaScript and jQuery and apply it to a website.
+A simple calculator that can add, subtract, multiply and divide 2 numbers together. This project was used to learn how to use JavaScript and jQuery and apply it to a website.
 
 ## Setup/Installation Requirements
 
