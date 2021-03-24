@@ -30,4 +30,12 @@ $(document).ready(function() {
 		const result = subtract(number1, number2);
 		$("#output2").text(result);
 	});
+
+	$("form#multiply").submit(function(event) {
+		event.preventDefault();
+		const number1 = parseInt($("#multiply1").val());
+		const number2 = parseInt($("#multiply2").val());
+		const result = multiply(number1, number2);
+		$("#output3").text(result);
+	});
 });
