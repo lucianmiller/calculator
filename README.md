@@ -1,20 +1,19 @@
 # Calculator
 
-#### JavaScript and jQuery business logic practice for Epicodus, 3/4/2021
+#### JavaScript and jQuery business logic and user interface practice for Epicodus, 3/24/2021
 
 #### By Lucian Miller
 
 ## Description
 
-A simple calculator that can add, subtract, multiply and divide 2 numbers together. This project was used to learn how to use JavaScript and jQuery and apply it to a website.
+A simple calculator that can add, subtract, multiply and divide 2 numbers together. This project was used to learn how to use JavaScript and jQuery and apply it to a website and to learn the difference between business logic and user interfaces.
 
 ## Setup/Installation Requirements
 
 * Copy this repository
 * Open File
 * Open index.html
-* Type only numbers in the prompt that appears.
-* Refresh page in order to use again
+* Type only numbers into the form boxes under the functions you wish to use
 
 ## Known Bugs
 
@@ -29,7 +28,10 @@ lucian.miller@gmail.com
 * git
 * Vs code
 * HTML
+* Bootstrap
+* CSS
 * JavaScript
+* jQuery
 
 ### License
 
